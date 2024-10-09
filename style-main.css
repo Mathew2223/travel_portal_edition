@@ -1,0 +1,159 @@
+.steps-to-the-trip-perfect-dude{
+    width: 1205px;
+    height: 247px;
+    margin-top: 80px;
+    margin-left: 131px; 
+}
+.steps-to-perfect_text{
+    position: absolute;
+    width: 611px;
+    height: 53px;
+    margin-left: 283px;
+
+    font-family: Red Hat Text;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 52.92px;
+    text-align: left;
+    color: #F2785C;
+}
+.blocks-steps-dude{
+    align-items: center;
+}
+.blocks-steps-dude-all{
+    padding-top: 90px;
+    display: flex;
+    width: 1177px;
+    height: 154px;
+    flex-wrap: nowwrap;
+}
+#biking-step{
+    width: 255px;
+    height: 154px;
+}
+#calendar-step{
+    width: 247px;
+    height: 154px;
+    margin-left: 231px;
+}
+#plane-step{
+    width: 321px;
+    height: 154px;
+    margin-left: 160px;
+}
+.step_text{
+    height: 24px;
+    margin-top: 30px;
+
+    text-align: left;
+    font-family: Aleo;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #0D606F;
+}
+#biking-step_text{
+    width: 255px;
+}
+#calendar-step_text{
+    width: 230px;
+}
+#plane-step_text{
+    width: 321px;
+}
+.step-img{
+    display: flex;
+    margin: auto auto;
+}
+
+.pop-destinations_text{
+    height: 53px;
+    margin-top: 97px;
+    margin-left: 470px;
+
+    font-family: Red Hat Text;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 52.92px;
+    text-align: left;
+    color: #F2785C;
+}
+.img_countries-beauty-natures{
+    display: flex;
+    margin-top: 46px;
+    margin-left: -540px;
+    gap: 60px;
+}
+#Japan_img{
+    width: 800px;
+    height: 800px;
+    border-radius: 16px;
+    align-items: center;
+}
+#USA-img{
+    width: 800px;
+    height: 800px;
+    border-radius: 16px;
+}
+#Spain-img{
+    width: 800px;
+    height: 800px;
+    border-radius: 16px;
+}
+.text-of_countries{
+    position: absolute;
+    width: 108px;
+    height: 42px;
+    margin-top: 718px;
+
+    font-family: Red Hat Text;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 42.34px;
+    text-align: left;
+    color: #ffffff;
+}
+#Japan_text{
+    margin-left: 15px;
+}
+#Usa_text{
+    margin-left: 15px;
+}
+#Spain_text{
+    margin-left: 15px;
+}
+.orange-dots{
+    margin-top: 24px;
+    margin-left: 681px;
+}
+.button-find_more{
+    position: absolute;
+    width: 228px;
+    height: 59px;
+    margin-top: 2%;
+    margin-left: 607px;
+    padding: 10px 32px 10px 32px;
+    gap: 10px;
+    border: none;
+    border-radius: 10px;
+    background: #0D606F;
+
+    box-shadow: 0px 2px 3px 0px #0D606F29;
+    box-shadow: 0px 0px 3px 0px #0D606F14;
+}
+#find-more_text{
+    font-family: Red Hat Text;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 31.75px;
+    text-align: right;
+    color: #ffffff;    
+}
+.arrow-find-more{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    padding: 8.75px 2.5px 8.75px 2.5px;
+    margin-top: 25px;
+    margin-left: 635px;
+}

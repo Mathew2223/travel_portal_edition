@@ -12,13 +12,8 @@
 header{
     background-image: url("garret-image.svg");
     width: 1440px;
-    height: 685px;
+    height: 765px;
 }
-/* .header{
-    background-image: url("garret-image.svg");
-    width: 1440px;
-    height: 685px;
-} */
 
 .travel-portal{
     position: absolute;
@@ -119,11 +114,9 @@ header{
 }
 .what_would_you_like-text{
     position: absolute;
-    
-    width: 560px;
-    height: 22px;
-    padding-top: 32px;
-    padding-left: 41px;
+
+    margin-top: 32px;
+    margin-left: 41px;
 
     font-family: Aleo;
     font-size: 24px;
@@ -148,7 +141,7 @@ header{
     box-shadow: 0px 2px 3px 0px #0D606F29;
     box-shadow: 0px 0px 3px 0px #0D606F14;
 }
-.start_planning-text{
+#start_planning-text{
     font-family: Red Hat Text;
     font-size: 24px;
     font-weight: 500;
