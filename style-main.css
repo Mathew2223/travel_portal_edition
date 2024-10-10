@@ -174,7 +174,7 @@
     width: 1442px;
     height: 1331px;
     margin-top: 40px;
-    /* border: 5px solid yellow; */
+    position: absolute;
 }
 .Lorem_text{
     width: 760px;
@@ -207,7 +207,6 @@
     width: 1445px;
     height: 1270px;
     position: absolute;
-    /* border: 5px solid yellow; */
 }
 .container-of_stories{
     margin-left: 120px;
@@ -227,5 +226,7 @@
 }
 #second-arrow{
     margin-left: 637px;
-    margin-top: 38px;
+    margin-top: 68px;
 }
+
+
